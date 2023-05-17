@@ -11,3 +11,7 @@ LEMP環境。PHPバージョン=8.1
 ###### How to Add Application
  - アプリケーションはプロジェクト直下のsrcディレクトリに配置する
  - infra/nginx/default.confにserverを追加してrootディレクトリにアプリフォルダを指定
+
+###### Xdebug
+ - xdebug用のポート番号
+   - 9000
