@@ -10,6 +10,8 @@ services:
     build: ./infra/nginx
     ports:
       - '8080:80'
+      - '8081:81'
+      - '8082:82'
     volumes:
       - ./src:/app
       - ./infra/nginx/default.conf:/etc/nginx/conf.d/default.conf
