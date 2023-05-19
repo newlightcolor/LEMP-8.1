@@ -4,8 +4,9 @@ LEMP-8.1
 ## Overview
 LEMP環境。PHPバージョン=8.1
 
-## Requirement
+## Version
 - wsl2 -d ubuntu-22.04
+- Docker version 20.10.21, build baeda1f
 
 ## Usage
 ###### How to Add Application
